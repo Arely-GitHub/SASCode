@@ -1,2 +1,2 @@
-proc print data=sashelp.class;
+Proc print data=work._prodsavail;
 run;
