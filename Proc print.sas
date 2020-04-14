@@ -1,2 +1,3 @@
-Proc print data=work._prodsavail;
+proc print data=sashelp.class;
+	where Age>=15;
 run;
